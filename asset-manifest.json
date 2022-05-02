@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/eductonpoilu/static/css/main.1aaf711d.css",
-    "main.js": "/eductonpoilu/static/js/main.b7d6f8cf.js",
-    "static/media/main.jpg": "/eductonpoilu/static/media/main.516fbcd135926107480c.jpg",
-    "static/media/JosefinSans-Medium.ttf": "/eductonpoilu/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
-    "index.html": "/eductonpoilu/index.html",
-    "main.1aaf711d.css.map": "/eductonpoilu/static/css/main.1aaf711d.css.map",
-    "main.b7d6f8cf.js.map": "/eductonpoilu/static/js/main.b7d6f8cf.js.map"
+    "main.css": "/esprit-de-meute/static/css/main.20b23d6f.css",
+    "main.js": "/esprit-de-meute/static/js/main.b7d6f8cf.js",
+    "static/media/main.jpg": "/esprit-de-meute/static/media/main.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/esprit-de-meute/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/esprit-de-meute/index.html",
+    "main.20b23d6f.css.map": "/esprit-de-meute/static/css/main.20b23d6f.css.map",
+    "main.b7d6f8cf.js.map": "/esprit-de-meute/static/js/main.b7d6f8cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.1aaf711d.css",
+    "static/css/main.20b23d6f.css",
     "static/js/main.b7d6f8cf.js"
   ]
 }
