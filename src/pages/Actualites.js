@@ -2,14 +2,13 @@ import React from 'react';
 import Logo from '../components/Logo';
 import Navigation from '../components/Navigation';
 
-const Home = () => {
+const Actualites = () => {
     return (
         <div>
-          <Logo />
-          <Navigation />
-          <h1>Acceuil</h1>
+            <Logo />
+            <Navigation />
         </div>
     );
 };
 
-export default Home;
+export default Actualites;
