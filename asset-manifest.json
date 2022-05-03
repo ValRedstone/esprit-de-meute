@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/esprit-de-meute/static/css/main.2248a7b1.css",
-    "main.js": "/esprit-de-meute/static/js/main.87aca4ff.js",
+    "main.css": "/esprit-de-meute/static/css/main.0190bdd2.css",
+    "main.js": "/esprit-de-meute/static/js/main.fb00cf0b.js",
     "static/media/main.jpg": "/esprit-de-meute/static/media/main.516fbcd135926107480c.jpg",
     "static/media/JosefinSans-Medium.ttf": "/esprit-de-meute/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
     "index.html": "/esprit-de-meute/index.html",
-    "main.2248a7b1.css.map": "/esprit-de-meute/static/css/main.2248a7b1.css.map",
-    "main.87aca4ff.js.map": "/esprit-de-meute/static/js/main.87aca4ff.js.map"
+    "main.0190bdd2.css.map": "/esprit-de-meute/static/css/main.0190bdd2.css.map",
+    "main.fb00cf0b.js.map": "/esprit-de-meute/static/js/main.fb00cf0b.js.map"
   },
   "entrypoints": [
-    "static/css/main.2248a7b1.css",
-    "static/js/main.87aca4ff.js"
+    "static/css/main.0190bdd2.css",
+    "static/js/main.fb00cf0b.js"
   ]
 }
